@@ -3,6 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Naeem Shahzad</h1>
 
+![Header](https://github.com/DeveloperNaeem41/DeveloperNaeem41/raw/master/naeem_shahzad.gif)
+
+
 
 <h1 align="cneter"> 💫 About Me:</h1>
 I am a frontend engineer passionate about crafting performant and intuitive user experiences. I have experience building web applications using modern JavaScript frameworks and libraries.
@@ -46,6 +49,7 @@ I am a frontend engineer passionate about crafting performant and intuitive user
 <a href="https://www.linkedin.com/in/iamnaeemshahzad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/naeem_ansari41/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/Naughtynaeem41" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://discord.com/users/1033827086030360717"><img alt=" Discord" width="21px" src="https://img.shields.io/badge/Discord-%231877F2.svg?&style=flat-square&logo=discord&logoColor=white" /></a>
 
 
 
