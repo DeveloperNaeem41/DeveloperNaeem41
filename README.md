@@ -1,8 +1,5 @@
 
-![Header](https://github.com/DeveloperNaeem41/DeveloperNaeem41/raw/master/naeem_shahzad.gif?raw=true)
 ![logo](https://github.com/DeveloperNaeem41/DeveloperNaeem41/blob/main/naeem_shahzad.gif)
-![logo](https://github.com/DeveloperNaeem41/DeveloperNaeem41/blob/main/naeem_shahzad.png)
-
 
 <h1 align="center">Hi 👋, I'm Naeem Shahzad</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
