@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Naeem Shahzad</h1>
 
-![Header](https://github.com/DeveloperNaeem41/DeveloperNaeem41/blob/master/naeem_shahzad.gif?raw=true)
+![Header](https://github.com/DeveloperNaeem41/DeveloperNaeem41/raw/master/naeem_shahzad.gif?raw=true)
 
 
 
