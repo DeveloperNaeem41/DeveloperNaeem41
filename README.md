@@ -38,7 +38,7 @@ I am a frontend engineer passionate about crafting performant and intuitive user
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/-React-000000?style=flat&logo=Next&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=Next&logoColor=61DAFB)
 
 
 **Reach me at**
